@@ -3,13 +3,9 @@ This Repo contains OpenSource Alternatives to SaaS products
 
 > Visit [ConquerortheCrown](https://www.conquerorthecrown.com/) to get Grants and Resources for your Startup.
 
-[API Platform](#API-Platform) 
-
 |Category|Company|Description|GitHub Stars|Alternative to|
 |:-------|:------|:----------|:----------:|:------------:|
 API Gateway|[Apache APISIX](https://github.com/apache/apisix)|Cloud Native API Gateway under the Apache Software Foundation|<a href=https://github.com/apache/apisix><img src="https://img.shields.io/github/stars/apache/apisix?style=social" width=150/></a>|[apigee](https://cloud.google.com/apigee)
-
-### API Platform 
 API Platform|[Firecamp](https://firecamp.dev/)|DX first open-source API devtool|<a href=https://github.com/firecamp-dev/firecamp><img src="https://img.shields.io/github/stars/firecamp-dev/firecamp?style=social" width=150/></a>|[Postman](https://www.postman.com/)
 API Platform|[Fusio](https://github.com/apioo/fusio)|API management platform|<a href=https://github.com/apioo/fusio><img src="https://img.shields.io/github/stars/apioo/fusio?style=social" width=150/></a>|[Postman](https://www.postman.com/)
 API Platform|[Hoppscotch](https://hoppscotch.io/)|API development ecosystem|<a href=https://github.com/hoppscotch/hoppscotch><img src="https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social" width=150/></a>|[Postman](https://www.postman.com/)
