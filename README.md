@@ -1,12 +1,10 @@
 ## ProgrammerBuddy by ConquerortheCrown
-Helping you in Conquer your Crown
+This repository is a curated collection of valuable resources designed to assist programmers, developers, and tech enthusiasts at all skill levels. Whether you're just starting out or are an experienced professional, you'll find a range of tools, tutorials, articles, and libraries to help you grow in your technical journey.
 
-Our Repos - 
-* [OpenSource Alternatives to SaaS](https://github.com/ConquerortheCrown/programmerbuddy/blob/main/OpenSource%20Alternatives%20to%20SaaS.md)
+#### [OpenSource Alternatives to SaaS](https://github.com/ConquerortheCrown/programmerbuddy/blob/main/OpenSource%20Alternatives%20to%20SaaS.md)
 
-#### Create Any Tech
+## Create Any Tech
 This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from Scratch. 
-
 
 * [3D Renderer](#build-your-own-3d-renderer)
 * [Augmented Reality](#build-your-own-augmented-reality)
