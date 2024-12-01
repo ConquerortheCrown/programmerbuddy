@@ -1,10 +1,9 @@
 ## ProgrammerBuddy by ConquerortheCrown
+Helping you in Conquer your Crown
 
 This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from Scratch. 
 
-> *What I cannot create, I do not understand — Richard Feynman.*
-
-It's a great way to learn.
+#### [OpenSource Alternatives to SaaS](https://github.com/ConquerortheCrown/programmerbuddy/blob/main/OpenSource%20Alternatives%20to%20SaaS.md)
 
 * [3D Renderer](#build-your-own-3d-renderer)
 * [Augmented Reality](#build-your-own-augmented-reality)
