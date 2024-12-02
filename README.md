@@ -6,6 +6,8 @@ This repository is a curated collection of valuable resources designed to assist
 ## Create Any Tech
 This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from Scratch. 
 
+> We are open for Contribution [Learn more](https://github.com/ConquerortheCrown/programmerbuddy/blob/main/CONTRIBUTING.md)
+
 * [3D Renderer](#build-your-own-3d-renderer)
 * [Augmented Reality](#build-your-own-augmented-reality)
 * [BitTorrent Client](#build-your-own-bittorrent-client)
