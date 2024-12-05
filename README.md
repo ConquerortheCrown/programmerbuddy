@@ -2,6 +2,7 @@
 This repository is a curated collection of valuable resources designed to assist programmers, developers, and tech enthusiasts at all skill levels. Whether you're just starting out or are an experienced professional, you'll find a range of tools, tutorials, articles, and libraries to help you grow in your technical journey.
 
 #### [OpenSource Alternatives to SaaS](https://github.com/ConquerortheCrown/programmerbuddy/blob/main/OpenSource%20Alternatives%20to%20SaaS.md)
+#### [Public APIs](https://github.com/ConquerortheCrown/programmerbuddy/blob/main/FreeAPI.md)
 
 ## Create Any Tech
 This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from Scratch. 
